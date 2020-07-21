@@ -1,6 +1,7 @@
 <p align="center">
      <p align="center">
           <img src="https://github.com/llanojs/Readme_template/blob/master/images/binary_tree.png" width="1100"/>
+          <p style="text-align: center;"><small>Types of Binary Tree || <a href="https://medium.com/@anandkparmar">Designed by Anand K Parmar.</a></small></p>
      </p>
      <p align="center">
           <a href="https://github.com/ellerbrock/open-source-badges/">
