@@ -1,6 +1,6 @@
 <p align="center">
      <p align="center">
-          <img src="https://github.com/llanojs/Readme_template/blob/master/images/binary_tree.png" width="360"/>
+          <img src="https://github.com/llanojs/Readme_template/blob/master/images/binary_tree.png" width="1100"/>
      </p>
      <p align="center">
           <a href="https://github.com/ellerbrock/open-source-badges/">
@@ -126,7 +126,7 @@ Functions to print binary trees in a pretty way
 
 ---
 <p align="center">
-    <h2 align="center">By, Juan Sebastian Llano Gallego</h2>
+     <h2 align="center">By Juan Sebastian Llano Gallego</h2>
       <p align="center">
         <a href="https://twitter.com/llanoJS" target="_blank">
             <img alt="twitter_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
@@ -138,6 +138,16 @@ Functions to print binary trees in a pretty way
             <img alt="medium_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
       </p>
+     <h2 align="center">Yesid A. López V.</h2>
+      <p align="center">
+        <a href="https://twitter.com/Yesid4Code" target="_blank">
+            <img alt="twitter_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
+        </a>
+        <a href="https://www.linkedin.com/in/yesid4code-/" target="_blank">
+            <img alt="linkedin_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/linkedin.png" style="float: center; margin-right: 10px" height="50"  width="50">
+        </a>
+      </p>
+    
 </p>
 
 ## Made with :heart: in
@@ -146,7 +156,7 @@ Functions to print binary trees in a pretty way
      style="float: left; margin-right: 10px;">
 
 **Holberton School - Colombia**
-**Foundations - System engineering & DevOps - Bash**
+**Foundations - Low-level programming & Algorithm ― Data structures and Algorithms**
 
-**Febrary, 2020.**
+**July, 2020.**
 
