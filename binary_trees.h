@@ -56,4 +56,5 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 /* Avanzadas */
 
 int binary_tree_is_complete(const binary_tree_t *tree); /* 21 */
+binary_tree_t *binary_tree_rotate_left(binary_tree_t *tree); /* 22 */
 #endif
